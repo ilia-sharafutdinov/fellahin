@@ -313,7 +313,7 @@
      </rec>
      <s>mughal</s>
      <no/>
-     <no/><!-- Playable -->
+     <yes/><!-- Playable -->
      <no/>
     </rec>
    </rec>
@@ -859,6 +859,7 @@
   <xml_include path="victory_conditions/netherlands.xml"/>
   <xml_include path="victory_conditions/britain.xml"/>
   <xml_include path="victory_conditions/poland_lithuania.xml"/>
+  <xml_include path="victory_conditions/mughal.xml"/>
  </ary>
  <ary type="FACTION_INFOS">
   <rec type="FACTION_INFOS">
@@ -1065,7 +1066,7 @@
    <s>mughal</s>
    <s>ui/portraits/indian/cards/king/old/062.tga</s>
    <yes/>
-   <no/>
+   <yes/>
    <i>21</i>
    <s>start_pos_factions_description_62</s>
    <s>data\ui\flags\mughal</s>

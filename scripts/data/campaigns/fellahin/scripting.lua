@@ -362,6 +362,18 @@ local function OnAdviceIssued(context)
 		camera_pan = 101	
 
 
+--1010_Campaign_Advice_Mughal_Initial_Turns_Thread
+--Mughal camera pans = 111, 112
+
+		elseif conditions.AdviceJustDisplayed("151876182", context) and not CampaignUI.IsMultiplayer()  then
+		scripting.game_interface:set_zoom_limit(1.08, 0.02)
+		CampaignUI.ScrollCamera(24,	{527.000, 122.000, 0.95},
+								{549.000, 94.000, 0.85},
+								{543.000, 181.000, 0.95})
+								
+		camera_pan = 107	
+
+
 --1010a_Campaign_Advice_Maratha_Initial_Turns_Thread
 --Maratha camera pans = 111, 112
 
@@ -617,6 +629,32 @@ local function OnCameraMoverFinished(context)
 	elseif camera_pan == 101 then
 		scripting.game_interface:set_zoom_limit(1.0, 0.5)
 		CampaignUI.SetCameraTarget(125.000, 417.000)
+		camera_pan = 0
+		
+
+--1010_Campaign_Advice_Mughal_Initial_Turns_Thread
+
+	elseif camera_pan == 107 then
+		CampaignUI.ScrollCamera(22,	{587.000, 112.000, 0.95},
+								{553.000, 134.000, 0.95},
+								{525.000, 96.000, 0.85},
+								{547.000, 69.000, 0.85},
+								{571.000, 53.000, 0.85})
+		camera_pan = 108
+
+	elseif camera_pan == 108 then
+		CampaignUI.ScrollCamera(7,	{-3.000, 368.000, 0.90},
+								{21.000, 340.000, 0.90})
+		camera_pan = 109
+	
+	elseif camera_pan == 109 then
+		CampaignUI.ScrollCamera(14,	{582.000, 37.000, 0.85},
+								{555.000, 192.000, 0.75})
+		camera_pan = 110
+							
+	elseif camera_pan == 110 then
+		scripting.game_interface:set_zoom_limit(1.0, 0.5)
+		CampaignUI.SetCameraTarget(555.000, 192.000)
 		camera_pan = 0
 		
 
@@ -876,6 +914,13 @@ local function OnAdviceDismissed(context)
   			camera_pan = 0
   			scripting.game_interface:set_zoom_limit(1.0, 0.5)
   			CampaignUI.SetCameraTarget (125.000, 417.000)
+	 
+	--Mughal
+		elseif conditions.AdviceJustDisplayed("151876182", context) then
+	  		CampaignUI.StopCamera()
+  			camera_pan = 0
+  			scripting.game_interface:set_zoom_limit(1.0, 0.5)
+  			CampaignUI.SetCameraTarget (555.000, 192.000)
 	 
 	--Maratha
 		elseif conditions.AdviceJustDisplayed("1221146494", context) then
