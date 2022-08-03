@@ -126,6 +126,8 @@ Unit_IDRef(string)	Faction_IDRef(string)	Availability(boolean)
 "cossack_cavalry"	"poland_lithuania"	false
 "cossack_cavalry_hetman"	"poland_lithuania"	false
 "cossack_infantry"	"poland_lithuania"	false
+"east_ethnic_musketmen_fellahin_musketeers"	"safavids"	true
+"east_ethnic_swordsmen_fellahin"	"safavids"	true
 "east_grenade_launchers"	"ottomans"	true
 "elite_2nd_hussars"	"prussia"	true
 "elite_blue_guard"	"netherlands"	true
