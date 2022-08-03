@@ -479,6 +479,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "dockyard"	"6th_rate_french"	0	false
 "dockyard"	"6th_rate_russian"	0	false
 "dockyard"	"6th_rate_spanish"	0	false
+"dockyard"	"barbary_xebec"	0	false
 "dockyard"	"bomb_ketch"	0	false
 "dockyard"	"bomb_ketch_american"	0	false
 "dockyard"	"bomb_ketch_british"	0	false
@@ -503,6 +504,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "dockyard"	"sloop_british"	1	false
 "dockyard"	"sloop_french"	1	false
 "dockyard"	"sloop_spanish"	1	false
+"dockyard"	"xebec"	0	false
 "drill_school"	"americas_dragoons"	0	false
 "drill_school"	"americas_line_infantry"	0	false
 "drill_school"	"americas_regiment_of_horse"	0	false
@@ -649,7 +651,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "drydock"	"6th_rate_russian"	1	false
 "drydock"	"6th_rate_spanish"	1	false
 "drydock"	"american_heavy_frigate"	0	false
-"drydock"	"barbary_xebec"	0	false
+"drydock"	"barbary_xebec"	1	false
 "drydock"	"bomb_ketch"	0	false
 "drydock"	"bomb_ketch_american"	0	false
 "drydock"	"bomb_ketch_british"	0	false
@@ -684,6 +686,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "drydock"	"sloop_french"	1	false
 "drydock"	"sloop_spanish"	1	false
 "drydock"	"sp_ed_constitution"	0	false
+"drydock"	"xebec"	1	false
 "engineer_school"	"18_lber_land_cannon"	0	false
 "engineer_school"	"18_lber_land_cannon_guard_galloper"	0	false
 "engineer_school"	"24_lber_howitzer"	0	false
@@ -1698,6 +1701,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "naval_hospital"	"sloop_french"	2	false
 "naval_hospital"	"sloop_spanish"	2	false
 "naval_hospital"	"sp_ed_constitution"	1	false
+"naval_hospital"	"xebec"	1	false
 "ordnance_board"	"12_lber_land_cannon"	0	false
 "ordnance_board"	"18_lber_land_cannon"	0	false
 "ordnance_board"	"24_lber_howitzer"	0	false
@@ -2648,6 +2652,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "shipyard"	"6th_rate_french"	0	false
 "shipyard"	"6th_rate_russian"	0	false
 "shipyard"	"6th_rate_spanish"	0	false
+"shipyard"	"barbary_xebec"	0	false
 "shipyard"	"brig"	1	false
 "shipyard"	"brig_american"	1	false
 "shipyard"	"brig_british"	1	false
@@ -2664,6 +2669,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "shipyard"	"sloop_british"	1	false
 "shipyard"	"sloop_french"	1	false
 "shipyard"	"sloop_spanish"	1	false
+"shipyard"	"xebec"	0	false
 "steam_drydock"	"1st_rate"	0	false
 "steam_drydock"	"1st_rate_admiral"	0	false
 "steam_drydock"	"1st_rate_admiral_american"	0	false
@@ -2717,7 +2723,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "steam_drydock"	"6th_rate_russian"	2	false
 "steam_drydock"	"6th_rate_spanish"	2	false
 "steam_drydock"	"american_heavy_frigate"	0	false
-"steam_drydock"	"barbary_xebec"	0	false
+"steam_drydock"	"barbary_xebec"	2	false
 "steam_drydock"	"bomb_ketch"	1	false
 "steam_drydock"	"bomb_ketch_american"	1	false
 "steam_drydock"	"bomb_ketch_british"	1	false
@@ -2766,6 +2772,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "steam_drydock"	"steam_ship_british"	0	false
 "steam_drydock"	"steam_ship_french"	0	false
 "steam_drydock"	"steam_ship_spanish"	0	false
+"steam_drydock"	"xebec"	2	false
 "trading_company"	"brig"	0	false
 "trading_company"	"brig_american"	0	false
 "trading_company"	"brig_british"	0	false
