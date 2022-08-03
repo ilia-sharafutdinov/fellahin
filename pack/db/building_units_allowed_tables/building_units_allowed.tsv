@@ -11,7 +11,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_barracks"	"east_ethnic_hillmen_musketeers"	0	false
 "army_barracks"	"east_ethnic_hillmen_musketeers_afghan"	0	false
 "army_barracks"	"east_ethnic_hillmen_musketeers_kurdish"	0	false
-"army_barracks"	"east_ethnic_musketeers_bargir"	0	false
 "army_barracks"	"east_ethnic_musketmen_hindu_musketeers"	0	false
 "army_barracks"	"east_ethnic_musketmen_isarelys"	0	false
 "army_barracks"	"east_ethnic_swordsmen_fellahin"	0	false
@@ -1146,7 +1145,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_governors_barracks"	"east_ethnic_hillmen_musketeers"	0	false
 "minor_governors_barracks"	"east_ethnic_hillmen_musketeers_afghan"	0	false
 "minor_governors_barracks"	"east_ethnic_hillmen_musketeers_kurdish"	0	false
-"minor_governors_barracks"	"east_ethnic_musketeers_bargir"	0	false
 "minor_governors_barracks"	"east_ethnic_musketmen_fellahin_musketeers"	0	false
 "minor_governors_barracks"	"east_ethnic_musketmen_hindu_musketeers"	0	false
 "minor_governors_barracks"	"east_ethnic_musketmen_isarelys"	0	false
@@ -1527,7 +1525,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_royal_palace"	"east_ethnic_hillmen_musketeers"	0	false
 "minor_royal_palace"	"east_ethnic_hillmen_musketeers_afghan"	0	false
 "minor_royal_palace"	"east_ethnic_hillmen_musketeers_kurdish"	0	false
-"minor_royal_palace"	"east_ethnic_musketeers_bargir"	0	false
 "minor_royal_palace"	"east_ethnic_musketmen_fellahin_musketeers"	0	false
 "minor_royal_palace"	"east_ethnic_musketmen_hindu_musketeers"	1	false
 "minor_royal_palace"	"east_ethnic_musketmen_isarelys"	0	false
