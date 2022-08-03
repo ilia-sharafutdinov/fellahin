@@ -496,9 +496,9 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "dockyard"	"galleon"	0	false
 "dockyard"	"galleon_fluyt"	0	false
 "dockyard"	"galleon_race_built"	0	false
-"dockyard"	"light_galley/galliot/fusta"	0	false
-"dockyard"	"medium_galley"	0	false
-"dockyard"	"ottoman_medium_galley"	0	false
+"dockyard"	"light_galley/galliot/fusta"	1	false
+"dockyard"	"medium_galley"	1	false
+"dockyard"	"ottoman_medium_galley"	1	false
 "dockyard"	"sloop"	1	false
 "dockyard"	"sloop_american"	1	false
 "dockyard"	"sloop_british"	1	false
@@ -673,8 +673,8 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "drydock"	"galleon_fluyt"	0	false
 "drydock"	"galleon_race_built"	0	false
 "drydock"	"light_galley/galliot/fusta"	1	false
-"drydock"	"medium_galley"	0	false
-"drydock"	"ottoman_medium_galley"	0	false
+"drydock"	"medium_galley"	1	false
+"drydock"	"ottoman_medium_galley"	1	false
 "drydock"	"rocket_ship"	0	false
 "drydock"	"rocket_ship_american"	0	false
 "drydock"	"rocket_ship_british"	0	false
@@ -1687,9 +1687,9 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "naval_hospital"	"galleon"	1	false
 "naval_hospital"	"galleon_fluyt"	1	false
 "naval_hospital"	"galleon_race_built"	1	false
-"naval_hospital"	"light_galley/galliot/fusta"	1	false
-"naval_hospital"	"medium_galley"	1	false
-"naval_hospital"	"ottoman_medium_galley"	1	false
+"naval_hospital"	"light_galley/galliot/fusta"	2	false
+"naval_hospital"	"medium_galley"	2	false
+"naval_hospital"	"ottoman_medium_galley"	2	false
 "naval_hospital"	"rocket_ship"	1	false
 "naval_hospital"	"rocket_ship_american"	1	false
 "naval_hospital"	"rocket_ship_british"	1	false
@@ -2663,7 +2663,9 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "shipyard"	"galleon"	0	false
 "shipyard"	"galleon_fluyt"	0	false
 "shipyard"	"galleon_race_built"	0	false
-"shipyard"	"light_galley/galliot/fusta"	0	false
+"shipyard"	"light_galley/galliot/fusta"	1	false
+"shipyard"	"medium_galley"	1	false
+"shipyard"	"ottoman_medium_galley"	1	false
 "shipyard"	"sloop"	1	false
 "shipyard"	"sloop_american"	1	false
 "shipyard"	"sloop_british"	1	false
@@ -2744,7 +2746,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "steam_drydock"	"galleon"	0	false
 "steam_drydock"	"galleon_fluyt"	0	false
 "steam_drydock"	"galleon_race_built"	0	false
-"steam_drydock"	"light_galley/galliot/fusta"	2	false
+"steam_drydock"	"light_galley/galliot/fusta"	1	false
 "steam_drydock"	"medium_galley"	1	false
 "steam_drydock"	"ottoman_medium_galley"	1	false
 "steam_drydock"	"over_1st_rate"	0	false
@@ -2806,6 +2808,8 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "trading_port"	"indiaman"	0	false
 "trading_port"	"light_galley/galliot/fusta"	0	false
 "trading_port"	"lugger"	0	false
+"trading_port"	"medium_galley"	0	false
+"trading_port"	"ottoman_medium_galley"	0	false
 "trading_port"	"sloop"	0	false
 "trading_port"	"sloop_american"	0	false
 "trading_port"	"sloop_british"	0	false
