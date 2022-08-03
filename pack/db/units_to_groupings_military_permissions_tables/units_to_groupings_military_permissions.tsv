@@ -434,6 +434,7 @@ Unit_IDRef(string)	Military_x0020_Group(string)
 "east_ethnic_hillmen_musketeers_afghan"	"maratha_group"
 "east_ethnic_hillmen_musketeers_afghan"	"mughal_group"
 "east_ethnic_hillmen_musketeers_afghan"	"ottoman_group"
+"east_ethnic_hillmen_musketeers_kurdish"	"barbary_group"
 "east_ethnic_hillmen_musketeers_kurdish"	"maratha_group"
 "east_ethnic_hillmen_musketeers_kurdish"	"mughal_group"
 "east_ethnic_hillmen_musketeers_kurdish"	"ottoman_group"
