@@ -24,12 +24,12 @@
  <u>1</u>
  <no/>
  <no/>
- <u>1000</u><!-- Subsistence Agricultural (SA) -->
- <u>3655</u><!-- Industrial Wealth Plus (SA) -->
- <u>3655</u><!-- Industrial Wealth Plus (SA) Minus Trading Losses -->
- <u>1250</u><!-- Town Wealth -->
- <u>1250</u><!-- Minimum Town Wealth -->
- <u>1250</u><!-- Town Wealth -->
+ <u>500</u><!-- Subsistence Agricultural (SA) -->
+ <u>641</u><!-- Industrial Wealth Plus (SA) -->
+ <u>641</u><!-- Industrial Wealth Plus (SA) Minus Trading Losses -->
+ <u>125</u><!-- Town Wealth -->
+ <u>125</u><!-- Minimum Town Wealth -->
+ <u>125</u><!-- Town Wealth -->
  <i>1</i><!-- Town Monetary Growth -->
  <u>0</u>
  <u>0</u>
