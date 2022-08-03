@@ -1038,6 +1038,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "military_academy"	"eua_royal_deux_ponts"	0	false
 "military_academy"	"eua_royal_welch"	0	false
 "military_academy"	"eua_tarleton_dragoons"	0	false
+"military_academy"	"eue_mounted_nizam_i_cedit"	0	false
 "military_academy"	"euro_african_infantry"	0	false
 "military_academy"	"euro_carabiniers"	0	false
 "military_academy"	"euro_company_cavalry"	0	false
@@ -1109,6 +1110,8 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "military_academy"	"janissaries_cemaat"	0	false
 "military_academy"	"mameluks"	0	false
 "military_academy"	"netherlands_swiss_infantry"	0	false
+"military_academy"	"nizam_I_cedit_infantry"	0	false
+"military_academy"	"nizam_I_cedit_light_infantry"	0	false
 "military_academy"	"norwegian_ski_troops"	0	false
 "military_academy"	"ottoman_generals_bodyguard"	0	false
 "military_academy"	"prussian_grenadiers"	0	false
