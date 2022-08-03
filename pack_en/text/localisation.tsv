@@ -6623,6 +6623,7 @@ advice_levels_onscreen_text_268406185	We should concentrate our efforts on build
 names_name_names_danishJokum	Jokum	false
 advice_levels_onscreen_text_588897548	The construction of industrial centres will steer your empire from subsistence to wealth and affluence for many. However, industrialisation comes at a price - the lower orders may become unhappy with the pace of change, as the introduction of new technology quickly forces them from the land into modern manufactories.	false
 region_unit_resources_string_tatars	The Caucasus	false
+region_unit_resources_string_caucasians	The Caucasus	false
 effects_description_trade_route_all_mod_growth_rate	%+n%% bonus to the growth in trade route income	false
 building_description_texts_long_description_minor_governors_barracks	"
 
