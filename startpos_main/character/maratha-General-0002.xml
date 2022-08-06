@@ -22,7 +22,6 @@
    <traits>
     C_General_Bloody=6
     C_General_Ambush_Good=6
-    C_General_India_Good=8
    </traits>
    <loc>names_name_names_indian_hinduRustam</loc>
    <loc>names_name_names_indian_hinduAkurdikar</loc>
@@ -34,9 +33,7 @@
    <portrait_details card="ui/portraits/indian/Cards/general/young/021.tga" info="ui/portraits/indian/Info/general/young/021.jpg" number="21"/>
    <s>maratha</s>
    <u>581941568</u><!-- Character ID -->
-   <agent_ancillaries>
-    Ancillary_Army_European_Turncoat
-   </agent_ancillaries>
+   <agent_ancillaries/>
    <agent_attributes>
     command_land=2
     command_sea=-1

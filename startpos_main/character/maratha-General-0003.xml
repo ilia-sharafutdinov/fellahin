@@ -20,8 +20,6 @@
   </rec>
   <rec type="CHARACTER_DETAILS">
    <traits>
-    C_General_Good_Field_Commander=3
-    C_General_Attacker_Good=12
     C_General_Ambush_Good=6
    </traits>
    <loc>names_name_names_indian_hinduJainil</loc>
@@ -38,7 +36,7 @@
     Ancillary_Army_Surgeon
    </agent_ancillaries>
    <agent_attributes>
-    command_land=4
+    command_land=2
     command_sea=-1
     duelling_pistols=-1
     duelling_swords=-1
