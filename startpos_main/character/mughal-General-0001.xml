@@ -20,7 +20,7 @@
   </rec>
   <rec type="CHARACTER_DETAILS">
    <traits>
-    C_General_Bad_Field_Commander=7
+    C_General_Bad_Field_Commander=3
     C_General_Ambush_Good=6
    </traits>
    <loc>names_name_names_mughalRam</loc>
@@ -35,7 +35,7 @@
    <u>582781096</u><!-- Character ID -->
    <agent_ancillaries/>
    <agent_attributes>
-    command_land=0
+    command_land=1
     command_sea=-1
     duelling_pistols=-1
     duelling_swords=-1

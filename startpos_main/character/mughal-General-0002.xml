@@ -21,7 +21,6 @@
   <rec type="CHARACTER_DETAILS">
    <traits>
     C_General_Coward=1
-    C_General_Defender_Bad=4
     C_General_India_Good=4
    </traits>
    <loc>names_name_names_mughalZulfikar</loc>
