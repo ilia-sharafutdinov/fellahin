@@ -1366,7 +1366,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_governors_palace"	"americas_militia_infantry"	0	false
 "minor_governors_palace"	"americas_provincial_cavalry"	0	false
 "minor_governors_palace"	"armed_peasantry"	0	false
-"minor_governors_palace"	"armed_peasantry_bhumiya"	0	false
 "minor_governors_palace"	"armed_peasantry_semenys"	0	false
 "minor_governors_palace"	"bashibazouks"	0	false
 "minor_governors_palace"	"cossack_cavalry"	0	false
@@ -1413,7 +1412,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_governors_residence"	"americas_militia_infantry"	0	false
 "minor_governors_residence"	"americas_provincial_cavalry"	0	false
 "minor_governors_residence"	"armed_peasantry"	0	false
-"minor_governors_residence"	"armed_peasantry_bhumiya"	0	false
 "minor_governors_residence"	"armed_peasantry_semenys"	0	false
 "minor_governors_residence"	"bashibazouks"	0	false
 "minor_governors_residence"	"cossack_infantry"	0	false
@@ -1461,7 +1459,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_magistrate"	"americas_hessian_infantry"	0	false
 "minor_magistrate"	"americas_militia_infantry"	0	false
 "minor_magistrate"	"armed_peasantry"	0	false
-"minor_magistrate"	"armed_peasantry_bhumiya"	0	false
 "minor_magistrate"	"bashibazouks"	0	false
 "minor_magistrate"	"cossack_infantry"	0	false
 "minor_magistrate"	"desert_warriors"	0	false
