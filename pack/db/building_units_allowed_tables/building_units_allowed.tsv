@@ -945,7 +945,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "magistrate"	"african_tribal_spearmen"	0	false
 "magistrate"	"americas_hessian_infantry"	0	false
 "magistrate"	"americas_militia_infantry"	0	false
-"magistrate"	"armed_peasantry"	0	false
 "magistrate"	"bashibazouks"	0	false
 "magistrate"	"cossack_infantry"	0	false
 "magistrate"	"desert_warriors"	0	false
@@ -1458,7 +1457,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_magistrate"	"african_tribal_spearmen"	0	false
 "minor_magistrate"	"americas_hessian_infantry"	0	false
 "minor_magistrate"	"americas_militia_infantry"	0	false
-"minor_magistrate"	"armed_peasantry"	0	false
 "minor_magistrate"	"bashibazouks"	0	false
 "minor_magistrate"	"cossack_infantry"	0	false
 "minor_magistrate"	"desert_warriors"	0	false
