@@ -32,6 +32,8 @@ Faction_IDRef(string)	weighting_type(int)	id(int)
 "maratha"	144	424
 "maratha"	149	427
 "maratha"	150	425
+"mughal"	26	448
+"mughal"	89	449
 "netherlands"	26	404
 "netherlands"	28	380
 "netherlands"	89	416
