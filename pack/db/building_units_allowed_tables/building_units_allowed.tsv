@@ -18,6 +18,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_barracks"	"east_ethnic_swordsmen_fellahin"	0	false
 "army_barracks"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "army_barracks"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
+"army_barracks"	"east_lancers"	0	false
 "army_barracks"	"east_lancers_silladar"	0	false
 "army_barracks"	"east_missile_cavalry_zamindari"	0	false
 "army_barracks"	"east_pikemen_zamindari"	0	false
@@ -106,7 +107,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_board"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
 "army_board"	"east_generals_bodyguard"	0	false
 "army_board"	"east_grenade_launchers"	0	false
-"army_board"	"east_lancers"	0	false
+"army_board"	"east_lancers"	1	false
 "army_board"	"east_lancers_bargir"	0	false
 "army_board"	"east_lancers_silladar"	1	false
 "army_board"	"east_light_cavalry_qizilbashi"	0	false
@@ -276,7 +277,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_staff_college"	"east_generals_bodyguard"	0	false
 "army_staff_college"	"east_grenade_launchers"	0	false
 "army_staff_college"	"east_guard_cavalry_ahadis"	0	false
-"army_staff_college"	"east_lancers"	1	false
+"army_staff_college"	"east_lancers"	2	false
 "army_staff_college"	"east_lancers_bargir"	0	false
 "army_staff_college"	"east_lancers_silladar"	2	false
 "army_staff_college"	"east_light_cavalry_qizilbashi"	0	false
@@ -531,6 +532,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "drill_school"	"east_ethnic_swordsmen_fellahin"	0	false
 "drill_school"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "drill_school"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
+"drill_school"	"east_lancers"	0	false
 "drill_school"	"east_lancers_bargir"	0	false
 "drill_school"	"east_lancers_silladar"	0	false
 "drill_school"	"east_light_cavalry_qizilbashi"	0	false
@@ -1166,6 +1168,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_governors_barracks"	"east_ethnic_warriors_barbary_pirates"	0	false
 "minor_governors_barracks"	"east_ethnic_warriors_dervishes"	0	false
 "minor_governors_barracks"	"east_irregular_cavalry_pindari"	0	false
+"minor_governors_barracks"	"east_lancers"	0	false
 "minor_governors_barracks"	"east_lancers_silladar"	0	false
 "minor_governors_barracks"	"east_missile_cavalry_zamindari"	0	false
 "minor_governors_barracks"	"east_pikemen_zamindari"	0	false
@@ -1545,6 +1548,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_royal_palace"	"east_ethnic_warriors_barbary_pirates"	0	false
 "minor_royal_palace"	"east_ethnic_warriors_dervishes"	0	false
 "minor_royal_palace"	"east_irregular_cavalry_pindari"	0	false
+"minor_royal_palace"	"east_lancers"	1	false
 "minor_royal_palace"	"east_lancers_silladar"	1	false
 "minor_royal_palace"	"east_missile_cavalry_zamindari"	0	false
 "minor_royal_palace"	"east_pikemen_zamindari"	1	false
@@ -1843,7 +1847,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "prest_france_arc_de_triomphe"	"east_generals_bodyguard"	0	false
 "prest_france_arc_de_triomphe"	"east_grenade_launchers"	0	false
 "prest_france_arc_de_triomphe"	"east_guard_cavalry_ahadis"	0	false
-"prest_france_arc_de_triomphe"	"east_lancers"	0	false
+"prest_france_arc_de_triomphe"	"east_lancers"	3	false
 "prest_france_arc_de_triomphe"	"east_lancers_bargir"	0	false
 "prest_france_arc_de_triomphe"	"east_lancers_silladar"	3	false
 "prest_france_arc_de_triomphe"	"east_light_cavalry_qizilbashi"	0	false
@@ -2021,7 +2025,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "prest_maratha_ajinkyatara"	"east_generals_bodyguard"	0	false
 "prest_maratha_ajinkyatara"	"east_grenade_launchers"	0	false
 "prest_maratha_ajinkyatara"	"east_guard_cavalry_ahadis"	0	false
-"prest_maratha_ajinkyatara"	"east_lancers"	0	false
+"prest_maratha_ajinkyatara"	"east_lancers"	3	false
 "prest_maratha_ajinkyatara"	"east_lancers_bargir"	0	false
 "prest_maratha_ajinkyatara"	"east_lancers_silladar"	3	false
 "prest_maratha_ajinkyatara"	"east_light_cavalry_qizilbashi"	0	false
@@ -2198,7 +2202,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "prest_poland_akademia"	"east_generals_bodyguard"	0	false
 "prest_poland_akademia"	"east_grenade_launchers"	0	false
 "prest_poland_akademia"	"east_guard_cavalry_ahadis"	0	false
-"prest_poland_akademia"	"east_lancers"	0	false
+"prest_poland_akademia"	"east_lancers"	3	false
 "prest_poland_akademia"	"east_lancers_bargir"	0	false
 "prest_poland_akademia"	"east_lancers_silladar"	3	false
 "prest_poland_akademia"	"east_light_cavalry_qizilbashi"	0	false
@@ -2333,7 +2337,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "prest_prussia_brandenburg_gate"	"east_generals_bodyguard"	0	false
 "prest_prussia_brandenburg_gate"	"east_grenade_launchers"	0	false
 "prest_prussia_brandenburg_gate"	"east_guard_cavalry_ahadis"	0	false
-"prest_prussia_brandenburg_gate"	"east_lancers"	0	false
+"prest_prussia_brandenburg_gate"	"east_lancers"	3	false
 "prest_prussia_brandenburg_gate"	"east_lancers_bargir"	0	false
 "prest_prussia_brandenburg_gate"	"east_lancers_silladar"	3	false
 "prest_prussia_brandenburg_gate"	"east_light_cavalry_qizilbashi"	0	false
