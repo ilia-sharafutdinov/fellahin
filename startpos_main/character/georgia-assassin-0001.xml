@@ -20,25 +20,25 @@
   </rec>
   <rec type="CHARACTER_DETAILS">
    <traits/>
-   <loc>names_name_names_greekKonstantinos</loc>
-   <loc>names_name_names_greekPispini</loc>
+   <loc>names_name_names_greekAgapios</loc>
+   <loc>names_name_names_greekAndreoulakis</loc>
    <loc/>
    <s/><!-- Head Of State -->
-   <date>summer 1655</date>
+   <date>summer 1675</date>
    <date/>
    <i>0</i>
-   <portrait_details card="ui/portraits/european/Cards/minister/old/154.tga" info="ui/portraits/european/Info/minister/old/154.jpg" number="154"/>
+   <portrait_details card="ui/portraits/european/Cards/rake/young/015.tga" info="ui/portraits/european/Info/rake/young/015.jpg" number="15"/>
    <s>georgia</s>
-   <u>584006064</u><!-- Character ID -->
+   <u>584003736</u><!-- Character ID -->
    <agent_ancillaries/>
    <agent_attributes>
     command_land=-1
     command_sea=-1
-    duelling_pistols=2
-    duelling_swords=2
+    duelling_pistols=-1
+    duelling_swords=-1
     management=-1
-    subterfuge=-1
-    research=2
+    subterfuge=2
+    research=-1
     zeal=-1
     land_defence_engineering=-1
     land_siege_engineering=-1
@@ -48,15 +48,15 @@
     trade=-1
    </agent_attributes>
    <ary type="AgentAbilities">
-    <agent_ability ability="can_assassinate" level="-1" attribute=""/>
+    <agent_ability ability="can_assassinate" level="1" attribute="subterfuge"/>
     <agent_ability ability="can_convert" level="-1" attribute=""/>
     <agent_ability ability="can_build_religious" level="-1" attribute=""/>
     <agent_ability ability="can_build_fort" level="-1" attribute=""/>
-    <agent_ability ability="can_sabotage" level="-1" attribute=""/>
-    <agent_ability ability="can_spy" level="-1" attribute=""/>
-    <agent_ability ability="can_duel" level="1" attribute="duelling_pistols"/>
-    <agent_ability ability="can_receive_duel" level="1" attribute="duelling_pistols"/>
-    <agent_ability ability="can_research" level="1" attribute="research"/>
+    <agent_ability ability="can_sabotage" level="1" attribute="subterfuge"/>
+    <agent_ability ability="can_spy" level="1" attribute="subterfuge"/>
+    <agent_ability ability="can_duel" level="-1" attribute=""/>
+    <agent_ability ability="can_receive_duel" level="-1" attribute=""/>
+    <agent_ability ability="can_research" level="-1" attribute=""/>
     <agent_ability ability="can_attack_land" level="-1" attribute=""/>
     <agent_ability ability="can_attack_naval" level="-1" attribute=""/>
     <agent_ability ability="can_sabotage_army" level="-1" attribute=""/>
@@ -65,10 +65,10 @@
     dummy=0
    </agent_attribute_bonuses>
    <no/>
-   <loc>agent_culture_details_onscreen_name_gentlemaneuropean</loc>
+   <loc>agent_culture_details_onscreen_name_assassinmiddle_east</loc>
   </rec>
-  <i>584006064</i><!-- Character ID -->
-  <s>gentleman</s><!-- Character Type -->
+  <i>584003736</i><!-- Character ID -->
+  <s>assassin</s><!-- Character Type -->
   <u>0</u><!-- Army ID -->
   <u>0</u><!-- Unit ID -->
   <u>0</u>

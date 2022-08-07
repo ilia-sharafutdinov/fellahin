@@ -125,8 +125,8 @@
  <ary type="CHARACTER_ARRAY">
   <xml_include path="character/georgia-General-0001.xml"/>
   <xml_include path="character/georgia-minister-0001.xml"/>
-  <xml_include path="character/georgia-rake-0001.xml"/>
-  <xml_include path="character/georgia-gentleman-0001.xml"/>
+  <xml_include path="character/georgia-assassin-0001.xml"/>
+  <xml_include path="character/georgia-Eastern_Scholar-0001.xml"/>
   <xml_include path="character/georgia-minister-0002.xml"/>
   <xml_include path="character/georgia-minister-0003.xml"/>
   <xml_include path="character/georgia-minister-0004.xml"/>
