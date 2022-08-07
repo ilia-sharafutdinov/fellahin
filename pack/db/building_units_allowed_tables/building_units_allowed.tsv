@@ -14,6 +14,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_barracks"	"east_ethnic_musketmen"	0	false
 "army_barracks"	"east_ethnic_musketmen_hindu_musketeers"	0	false
 "army_barracks"	"east_ethnic_musketmen_isarelys"	0	false
+"army_barracks"	"east_ethnic_swordsmen"	0	false
 "army_barracks"	"east_ethnic_swordsmen_fellahin"	0	false
 "army_barracks"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "army_barracks"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
@@ -99,6 +100,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_board"	"east_ethnic_musketmen_hindu_musketeers"	1	false
 "army_board"	"east_ethnic_musketmen_isarelys"	0	false
 "army_board"	"east_ethnic_musketmen_mughal_musketeers"	0	false
+"army_board"	"east_ethnic_swordsmen"	1	false
 "army_board"	"east_ethnic_swordsmen_fellahin"	1	false
 "army_board"	"east_ethnic_swordsmen_hindu_warriors"	1	false
 "army_board"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
@@ -232,6 +234,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_encampment"	"azzars"	0	false
 "army_encampment"	"deli_scouts"	0	false
 "army_encampment"	"east_ethnic_musketmen_hindu_musketeers"	0	false
+"army_encampment"	"east_ethnic_swordsmen"	0	false
 "army_encampment"	"east_ethnic_swordsmen_fellahin"	0	false
 "army_encampment"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "army_encampment"	"east_lancers_silladar"	0	false
@@ -266,6 +269,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_staff_college"	"east_ethnic_musketmen_hindu_musketeers"	2	false
 "army_staff_college"	"east_ethnic_musketmen_isarelys"	1	false
 "army_staff_college"	"east_ethnic_musketmen_mughal_musketeers"	0	false
+"army_staff_college"	"east_ethnic_swordsmen"	2	false
 "army_staff_college"	"east_ethnic_swordsmen_fellahin"	2	false
 "army_staff_college"	"east_ethnic_swordsmen_hindu_warriors"	2	false
 "army_staff_college"	"east_ethnic_swordsmen_islamic_swordsmen"	1	false
@@ -523,6 +527,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "drill_school"	"east_ethnic_musketmen_hindu_musketeers"	0	false
 "drill_school"	"east_ethnic_musketmen_isarelys"	0	false
 "drill_school"	"east_ethnic_musketmen_mughal_musketeers"	0	false
+"drill_school"	"east_ethnic_swordsmen"	0	false
 "drill_school"	"east_ethnic_swordsmen_fellahin"	0	false
 "drill_school"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "drill_school"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
@@ -1014,6 +1019,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "military_academy"	"east_ethnic_musketmen_hindu_musketeers"	0	false
 "military_academy"	"east_ethnic_musketmen_isarelys"	0	false
 "military_academy"	"east_ethnic_musketmen_mughal_musketeers"	0	false
+"military_academy"	"east_ethnic_swordsmen"	0	false
 "military_academy"	"east_ethnic_swordsmen_fellahin"	0	false
 "military_academy"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "military_academy"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
@@ -1153,6 +1159,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_governors_barracks"	"east_ethnic_musketmen_fellahin_musketeers"	0	false
 "minor_governors_barracks"	"east_ethnic_musketmen_hindu_musketeers"	0	false
 "minor_governors_barracks"	"east_ethnic_musketmen_isarelys"	0	false
+"minor_governors_barracks"	"east_ethnic_swordsmen"	0	false
 "minor_governors_barracks"	"east_ethnic_swordsmen_fellahin"	0	false
 "minor_governors_barracks"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "minor_governors_barracks"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
@@ -1274,6 +1281,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_governors_encampment"	"east_desert_nomad_camelry"	0	false
 "minor_governors_encampment"	"east_ethnic_musketmen_fellahin_musketeers"	0	false
 "minor_governors_encampment"	"east_ethnic_musketmen_hindu_musketeers"	0	false
+"minor_governors_encampment"	"east_ethnic_swordsmen"	0	false
 "minor_governors_encampment"	"east_ethnic_swordsmen_fellahin"	0	false
 "minor_governors_encampment"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "minor_governors_encampment"	"east_ethnic_warriors_barbary_pirates"	0	false
@@ -1530,6 +1538,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_royal_palace"	"east_ethnic_musketmen_fellahin_musketeers"	0	false
 "minor_royal_palace"	"east_ethnic_musketmen_hindu_musketeers"	1	false
 "minor_royal_palace"	"east_ethnic_musketmen_isarelys"	0	false
+"minor_royal_palace"	"east_ethnic_swordsmen"	1	false
 "minor_royal_palace"	"east_ethnic_swordsmen_fellahin"	1	false
 "minor_royal_palace"	"east_ethnic_swordsmen_hindu_warriors"	1	false
 "minor_royal_palace"	"east_ethnic_swordsmen_islamic_swordsmen"	0	false
@@ -1827,6 +1836,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "prest_france_arc_de_triomphe"	"east_ethnic_musketmen_hindu_musketeers"	3	false
 "prest_france_arc_de_triomphe"	"east_ethnic_musketmen_isarelys"	2	false
 "prest_france_arc_de_triomphe"	"east_ethnic_musketmen_mughal_musketeers"	0	false
+"prest_france_arc_de_triomphe"	"east_ethnic_swordsmen"	3	false
 "prest_france_arc_de_triomphe"	"east_ethnic_swordsmen_fellahin"	3	false
 "prest_france_arc_de_triomphe"	"east_ethnic_swordsmen_hindu_warriors"	3	false
 "prest_france_arc_de_triomphe"	"east_ethnic_swordsmen_islamic_swordsmen"	2	false
@@ -2004,6 +2014,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "prest_maratha_ajinkyatara"	"east_ethnic_musketmen_hindu_musketeers"	3	false
 "prest_maratha_ajinkyatara"	"east_ethnic_musketmen_isarelys"	2	false
 "prest_maratha_ajinkyatara"	"east_ethnic_musketmen_mughal_musketeers"	0	false
+"prest_maratha_ajinkyatara"	"east_ethnic_swordsmen"	3	false
 "prest_maratha_ajinkyatara"	"east_ethnic_swordsmen_fellahin"	3	false
 "prest_maratha_ajinkyatara"	"east_ethnic_swordsmen_hindu_warriors"	3	false
 "prest_maratha_ajinkyatara"	"east_ethnic_swordsmen_islamic_swordsmen"	2	false
@@ -2180,6 +2191,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "prest_poland_akademia"	"east_ethnic_musketmen_hindu_musketeers"	3	false
 "prest_poland_akademia"	"east_ethnic_musketmen_isarelys"	2	false
 "prest_poland_akademia"	"east_ethnic_musketmen_mughal_musketeers"	0	false
+"prest_poland_akademia"	"east_ethnic_swordsmen"	3	false
 "prest_poland_akademia"	"east_ethnic_swordsmen_fellahin"	3	false
 "prest_poland_akademia"	"east_ethnic_swordsmen_hindu_warriors"	3	false
 "prest_poland_akademia"	"east_ethnic_swordsmen_islamic_swordsmen"	2	false
@@ -2314,6 +2326,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "prest_prussia_brandenburg_gate"	"east_ethnic_musketmen_hindu_musketeers"	3	false
 "prest_prussia_brandenburg_gate"	"east_ethnic_musketmen_isarelys"	2	false
 "prest_prussia_brandenburg_gate"	"east_ethnic_musketmen_mughal_musketeers"	0	false
+"prest_prussia_brandenburg_gate"	"east_ethnic_swordsmen"	3	false
 "prest_prussia_brandenburg_gate"	"east_ethnic_swordsmen_fellahin"	3	false
 "prest_prussia_brandenburg_gate"	"east_ethnic_swordsmen_hindu_warriors"	3	false
 "prest_prussia_brandenburg_gate"	"east_ethnic_swordsmen_islamic_swordsmen"	2	false
