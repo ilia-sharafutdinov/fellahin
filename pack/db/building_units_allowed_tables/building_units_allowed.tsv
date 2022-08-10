@@ -240,7 +240,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_encampment"	"east_ethnic_swordsmen_hindu_warriors"	0	false
 "army_encampment"	"east_lancers_silladar"	0	false
 "army_encampment"	"east_pikemen_zamindari"	0	false
-"army_encampment"	"east_sikh_infantry_musketeers"	0	false
 "army_encampment"	"euro_carabiniers"	0	false
 "army_encampment"	"euro_dragoons"	0	false
 "army_encampment"	"euro_dragoons_colonial"	0	false
@@ -1292,7 +1291,6 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "minor_governors_encampment"	"east_irregular_cavalry_pindari"	0	false
 "minor_governors_encampment"	"east_lancers_silladar"	0	false
 "minor_governors_encampment"	"east_pikemen_zamindari"	0	false
-"minor_governors_encampment"	"east_sikh_infantry_musketeers"	0	false
 "minor_governors_encampment"	"euro_carabiniers"	0	false
 "minor_governors_encampment"	"euro_dragoons"	0	false
 "minor_governors_encampment"	"euro_dragoons_colonial"	0	false
