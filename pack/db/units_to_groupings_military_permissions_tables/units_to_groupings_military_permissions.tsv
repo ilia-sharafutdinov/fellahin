@@ -488,6 +488,7 @@ Unit_IDRef(string)	Military_x0020_Group(string)
 "east_generals_bodyguard"	"barbary_group"
 "east_guard_cavalry_ahadis"	"mughal_group"
 "east_irregular_cavalry_pindari"	"maratha_group"
+"east_lancers"	"barbary_group"
 "east_lancers"	"caucasus_group"
 "east_lancers"	"mughal_group"
 "east_lancers_bargir"	"maratha_group"
