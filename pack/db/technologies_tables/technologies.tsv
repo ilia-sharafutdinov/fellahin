@@ -48,7 +48,7 @@ Tech_ID(string)	Building_IDRef(string)	Tech_Tree_Position(int)	Research_Points(i
 "military_army_european_doctrine"	"drill_school"	3	350	"military_army_european_doctrine"	25	0	0	0	false	true	"drill-eu.tga"	1
 "military_army_fire_and_advance"	"military_academy"	7	242	"military_army_fire_and_advance"	0	0	0	0	false	true	"drill-eu.tga"	0
 "military_army_fire_by_rank"	"drill_school"	7	176	"military_army_fire_by_rank"	0	0	0	0	false	true	"drill-eu.tga"	1
-"military_army_light_infantry_doctrine"	"army_board"	0	342	"military_army_light_infantry_doctrine"	0	0	0	0	false	true	"drill-eu.tga"	1
+"military_army_light_infantry_doctrine"	"military_academy"	5	342	"military_army_light_infantry_doctrine"	0	0	0	0	false	true	"drill-eu.tga"	1
 "military_army_machined_rifling"	"army_staff_college"	0	478	"military_army_machined_rifling"	10	0	0	0	false	false	"drill-eu.tga"	1
 "military_army_military_syllabus"	"army_barracks"	4	68	"military_army_military_syllabus"	10	0	0	0	false	false	"drill-eu.tga"	1
 "military_army_new_model_bayonet_drill"	"military_academy"	0	197	"military_army_new_model_bayonet_drill"	10	0	0	0	false	true	"drill-eu.tga"	1
