@@ -23,7 +23,7 @@
     <land_unit commander="maratha Anurag Sokhal" created="summer 1700" deaths="0" exp="0" kills="0" mp="24" name="unit_regiment_names_localisation_lookup_unit_name_indian_line_infantry_004" size="160/160" type="east_ethnic_musketeers_bargir" unit_id="581949480"/>
    </rec>
    <rec type="UNITS_ARRAY">
-    <land_unit commander="maratha Raibhan Dhaliwal" created="summer 1700" deaths="0" exp="0" kills="0" mp="24" name="unit_regiment_names_localisation_lookup_unit_name_indian_line_infantry_005" size="160/160" type="east_ethnic_musketeers_bargir" unit_id="581949816"/>
+    <land_unit commander="maratha Raibhan Dhaliwal" created="summer 1700" deaths="0" exp="0" kills="0" mp="24" name="unit_regiment_names_localisation_lookup_unit_name_indian_line_infantry_005" size="160/160" type="east_ethnic_musketmen_hindu_musketeers" unit_id="581949816"/>
    </rec>
    <rec type="UNITS_ARRAY">
     <land_unit commander="maratha Chethan Suguru" created="summer 1700" deaths="0" exp="0" kills="0" mp="24" name="unit_regiment_names_localisation_lookup_unit_name_indian_melee_infantry_002" size="160/160" type="east_ethnic_swordsmen_hindu_warriors" unit_id="581950824"/>
