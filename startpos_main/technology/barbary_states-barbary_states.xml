@@ -27,7 +27,7 @@
   <techs name="military_ordnance_shrapnel_shot" status="4 (Not Researchable)" research_points="0.0" school_slot_id="0" unknown1="" times_exchanged="0"/>
   <techs name="military_ordnance_percussion_shells" status="4 (Not Researchable)" research_points="0.0" school_slot_id="0" unknown1="" times_exchanged="0"/>
   <techs name="military_navy_naval_shore_facilities" status="4 (Not Researchable)" research_points="0.0" school_slot_id="0" unknown1="" times_exchanged="0"/>
-  <techs name="military_navy_flintlock_cannon" status="4 (Not Researchable)" research_points="0.0" school_slot_id="0" unknown1="" times_exchanged="0"/>
+  <techs name="military_navy_flintlock_cannon" status="0" research_points="60.0" school_slot_id="0" unknown1="" times_exchanged="0"/>
   <techs name="military_navy_seasoning" status="4 (Not Researchable)" research_points="0.0" school_slot_id="0" unknown1="" times_exchanged="0"/>
   <techs name="military_navy_sextant" status="4 (Not Researchable)" research_points="0.0" school_slot_id="0" unknown1="" times_exchanged="0"/>
   <techs name="military_navy_naval_architecture_advances" status="4 (Not Researchable)" research_points="0.0" school_slot_id="0" unknown1="" times_exchanged="0"/>
