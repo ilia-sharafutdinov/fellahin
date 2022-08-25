@@ -82,6 +82,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "army_barracks"	"hakkapeliitat"	0	false
 "army_barracks"	"janissaries_beylik"	0	false
 "army_barracks"	"janissaries_cemaat"	0	false
+"army_barracks"	"mameluks"	0	false
 "army_barracks"	"norwegian_ski_troops"	0	false
 "army_barracks"	"sp_ed_rogers_rangers"	0	false
 "army_board"	"americas_dragoons"	1	false
