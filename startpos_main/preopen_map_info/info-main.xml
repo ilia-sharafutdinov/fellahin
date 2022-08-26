@@ -403,7 +403,7 @@
      </rec>
      <s>portugal</s>
      <no/>
-     <no/><!-- Playable -->
+     <yes/><!-- Playable -->
      <no/>
     </rec>
    </rec>
@@ -860,6 +860,7 @@
   <xml_include path="victory_conditions/britain.xml"/>
   <xml_include path="victory_conditions/poland_lithuania.xml"/>
   <xml_include path="victory_conditions/mughal.xml"/>
+  <xml_include path="victory_conditions/portugal.xml"/>
  </ary>
  <ary type="FACTION_INFOS">
   <rec type="FACTION_INFOS">
@@ -1125,8 +1126,8 @@
   <rec type="FACTION_INFOS">
    <s>portugal</s>
    <s>ui/portraits/european/cards/king/old/028.tga</s>
-   <no/>
-   <no/>
+   <yes/>
+   <yes/>
    <i>27</i>
    <s>start_pos_factions_description_50</s>
    <s>data\ui\flags\portugal</s>
