@@ -89,7 +89,6 @@ Unit_IDRef(string)	Faction_IDRef(string)	Availability(boolean)
 "6th_rate_american"	"united_states"	true
 "6th_rate_british"	"britain"	true
 "6th_rate_french"	"france"	true
-"6th_rate_russian"	"poland_lithuania"	false
 "6th_rate_russian"	"russia"	true
 "6th_rate_spanish"	"spain"	true
 "american_heavy_frigate"	"united_states"	true
@@ -366,12 +365,13 @@ Unit_IDRef(string)	Faction_IDRef(string)	Availability(boolean)
 "over_1st_rate_american"	"united_states"	true
 "over_1st_rate_british"	"britain"	true
 "over_1st_rate_french"	"france"	true
+"over_1st_rate_russian"	"russia"	true
 "over_1st_rate_spanish"	"spain"	true
 "pirates"	"pirates"	true
 "prussian_garde_du_corp"	"prussia"	true
 "prussian_grenadiers"	"prussia"	true
 "prussian_life_guard"	"prussia"	true
-"razee"	"portugal"	true
+"razee"	"britain"	false
 "razee_british"	"britain"	true
 "revolutionary_guard"	"france"	true
 "revolutionary_infantry"	"france"	true
