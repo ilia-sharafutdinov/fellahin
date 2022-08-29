@@ -35,7 +35,7 @@ Settlement_ID(string)	Region(string)	Capital(string)	Unknown2(int)	Slot(string)
 "settlement:croatia:zagreb"	"croatia"	"Zagreb"	1	"settlement"
 "settlement:cuba:la_habana"	"cuba"	"La Habana"	1	"settlement"
 "settlement:curacao:punda"	"curacao"	"Punda"	1	"settlement"
-"settlement:denmark:copenhagen"	"denmark"	"Copenhagen"	4	"settlement"
+"settlement:denmark:copenhagen"	"denmark"	"Copenhagen"	5	"settlement"
 "settlement:don_voisko:cherkassk"	"don_voisko"	"Cherkassk"	1	"settlement"
 "settlement:dutch_guyana:paramaribo"	"dutch_guyana"	"Paramaribo"	1	"settlement"
 "settlement:egypt:cairo"	"egypt"	"Cairo"	4	"settlement"
