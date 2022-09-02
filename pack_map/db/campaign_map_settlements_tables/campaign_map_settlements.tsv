@@ -154,7 +154,7 @@ Settlement_ID(string)	Region(string)	Capital(string)	Unknown2(int)	Slot(string)
 "settlement:transylvania:kolozsvar"	"transylvania"	"Klausenburg"	1	"settlement"
 "settlement:trinidad_tobago:san_jose_de_oruna"	"trinidad_tobago"	"San José de Oruña"	1	"settlement"
 "settlement:tripoli:tripoli"	"tripoli"	"Tripoli"	1	"settlement"
-"settlement:tunis:tunis"	"tunis"	"Tunis"	4	"settlement"
+"settlement:tunis:tunis"	"tunis"	"Tunis"	5	"settlement"
 "settlement:ukraine:kiev"	"ukraine"	"Kiev"	4	"settlement"
 "settlement:upper_louisiana:fort_chartres"	"upper_louisiana"	"Fort de Chartres"	1	"settlement"
 "settlement:venice:venice"	"venice"	"Venice"	5	"settlement"
