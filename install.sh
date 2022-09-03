@@ -5,35 +5,31 @@ shopt -s globstar
 
 source .config
 
-if find . -name "*~" | grep . &>/dev/null
-then
-	echo "backups found in compilation dir; please fix"
-elif [ ! -d "bin/zip/data" ]
+if [ ! -d "bin/zip/data" ]
 then
 	echo "bin/zip/data does not exist; please fix"
 elif [ -z ${1+x} ]
 then
 	echo "installing"
 
-	if find "$GAME_DATA_DIR" -name "*~" | grep . &>/dev/null
-	then
-		echo "existing backups found; aborting"
-	else
-		cp -b -R bin/zip/data/* "$GAME_DATA_DIR"
+	cp -r bin/zip/data/* "$GAME_DATA_DIR"
 
-		cp bin/zip/user.empire_script.txt "$GAME_SCRIPTS_DIR"
+	cp bin/zip/user.empire_script.txt "$GAME_SCRIPTS_DIR"
 
-		echo "success!"
-	fi
+	echo "success!"
 elif [ "$1" == "-u" ]
 then
-	echo "uninstalling"
-
-	if find "$GAME_DATA_DIR" -name "*~" | grep . &>/dev/null
+	if [ ! -d "$GAME_DATA_DIR/$campaign_dir" ]
 	then
-		for i in "$GAME_DATA_DIR"/**/*~; do
-			mv "$i" "${i::-1}"
-		done
+		echo "$GAME_DATA_DIR/$campaign_dir does not exist; aborting"
+	elif [ ! -d "$GAME_DATA_DIR/$map_dir" ]
+	then
+		echo "$GAME_DATA_DIR/$map_dir does not exist; aborting"
+	elif [ ! -f "$GAME_SCRIPTS_DIR/user.empire_script.txt" ]
+	then
+		echo "$GAME_SCRIPTS_DIR/user.empire_script.txt does not exist; aborting"
+	else
+		echo "uninstalling"
 
 		cd bin/zip/data
 		for i in *.pack; do
@@ -41,11 +37,11 @@ then
 		done
 		cd -
 
+		rm -rf "$GAME_DATA_DIR/$campaign_dir"
+		rm -rf "$GAME_DATA_DIR/$map_dir"
 		rm "$GAME_SCRIPTS_DIR/user.empire_script.txt"
 
 		echo "success!"
-	else
-		echo "no backups found; aborting"
 	fi
 else
 	echo "no arguments to install, -u to uninstall"

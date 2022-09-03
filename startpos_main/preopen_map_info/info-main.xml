@@ -845,8 +845,8 @@
   </ary>
  </rec>
  <date>summer 1700</date>
- <s>main</s>
- <s>global_map</s>
+ <s>fellahin</s>
+ <s>fellahin_map</s>
  <ary type="VICTORY_CONDITION_OPTIONS">
   <xml_include path="victory_conditions/ottomans.xml"/>
   <xml_include path="victory_conditions/maratha.xml"/>

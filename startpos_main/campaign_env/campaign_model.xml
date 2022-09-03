@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <rec type="CAMPAIGN_MODEL">
  <rec type="CAMPAIGN_MAP_DATA">
-  <s>campaign_maps/global_map</s>
+  <s>campaign_maps/fellahin_map</s>
   <s/>
-  <s>global_map</s>
+  <s>fellahin_map</s>
   <yes/>
  </rec>
  <u>1232648655</u>
