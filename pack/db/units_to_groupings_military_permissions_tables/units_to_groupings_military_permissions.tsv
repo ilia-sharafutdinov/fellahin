@@ -372,6 +372,8 @@ Unit_IDRef(string)	Military_x0020_Group(string)
 "brig"	"sweden_denmark_group"
 "brig"	"united_provinces_group"
 "brig"	"venice_group"
+"carrack"	"barbary_group"
+"carrack"	"ottoman_group"
 "carronade_frigate"	"austria_group"
 "carronade_frigate"	"caucasus_group"
 "carronade_frigate"	"france_group"

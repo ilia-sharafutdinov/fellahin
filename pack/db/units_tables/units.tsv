@@ -126,6 +126,7 @@ Unit_ID(string)	Screen_Name(string)	Category(string)	Class(string)	MP_Cost_Early
 "brig_british"	"Brig"	"naval_auxiliary"	"naval_brig"	560	460	1	700	170	83	true	"naval_captain"	"brig"	"brig"	"brig"	"global"	0	"mp_naval_line_of_battle"	true	true	true	0	false	0
 "brig_french"	"Brig"	"naval_auxiliary"	"naval_brig"	510	420	1	750	180	83	true	"naval_captain"	"brig"	"brig"	"brig"	"global"	0	"mp_naval_line_of_battle"	true	true	true	0	false	0
 "brig_spanish"	"Brig"	"naval_auxiliary"	"naval_brig"	500	410	1	680	170	83	true	"naval_captain"	"brig"	"brig"	"brig"	"global"	0	"mp_naval_line_of_battle"	true	true	true	0	false	0
+"carrack"	"Carrack"	"naval_line_of_battle"	"naval_galleon"	1230	1010	3	1710	300	73	true	"naval_captain"	"galleon"	"galleon"	"carrack"	"global"	0	"mp_naval_line_of_battle"	true	false	true	0	false	0
 "carronade_frigate"	"Carronade Frigate"	"naval_frigate"	"naval_sixth_rate"	1000	820	2	1160	290	83	true	"naval_captain"	"6th_rate_carronade"	"1d_24_carronade"	"carronade_frigate"	"global"	0	"mp_naval_line_of_battle"	false	false	true	0	false	0
 "carronade_frigate_american"	"Carronade Frigate"	"naval_frigate"	"naval_sixth_rate"	1080	890	2	1120	280	83	true	"naval_captain"	"6th_rate_carronade"	"1d_24_carronade"	"carronade_frigate"	"global"	0	"mp_naval_line_of_battle"	false	false	true	0	false	0
 "carronade_frigate_british"	"Carronade Frigate"	"naval_frigate"	"naval_sixth_rate"	1100	900	2	1170	290	83	true	"naval_captain"	"6th_rate_carronade"	"1d_24_carronade"	"carronade_frigate"	"global"	0	"mp_naval_line_of_battle"	false	false	true	0	false	0

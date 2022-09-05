@@ -428,6 +428,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "commercial_basin"	"brig_british"	0	false
 "commercial_basin"	"brig_french"	0	false
 "commercial_basin"	"brig_spanish"	0	false
+"commercial_basin"	"carrack"	0	false
 "commercial_basin"	"dhow"	0	false
 "commercial_basin"	"episodic_2_sloop"	0	false
 "commercial_basin"	"galleon"	0	false
@@ -448,6 +449,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "commercial_port"	"brig_british"	0	false
 "commercial_port"	"brig_french"	0	false
 "commercial_port"	"brig_spanish"	0	false
+"commercial_port"	"carrack"	0	false
 "commercial_port"	"dhow"	0	false
 "commercial_port"	"episodic_2_sloop"	0	false
 "commercial_port"	"galleon"	0	false
@@ -497,6 +499,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "dockyard"	"brig_british"	1	false
 "dockyard"	"brig_french"	1	false
 "dockyard"	"brig_spanish"	1	false
+"dockyard"	"carrack"	0	false
 "dockyard"	"episodic_2_5th_rate"	0	false
 "dockyard"	"episodic_2_brig"	0	false
 "dockyard"	"episodic_2_sloop"	0	false
@@ -672,6 +675,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "drydock"	"brig_british"	1	false
 "drydock"	"brig_french"	1	false
 "drydock"	"brig_spanish"	1	false
+"drydock"	"carrack"	0	false
 "drydock"	"carronade_frigate"	0	false
 "drydock"	"carronade_frigate_american"	0	false
 "drydock"	"carronade_frigate_british"	0	false
@@ -721,6 +725,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "fishing_fleet"	"brig_british"	0	false
 "fishing_fleet"	"brig_french"	0	false
 "fishing_fleet"	"brig_spanish"	0	false
+"fishing_fleet"	"carrack"	0	false
 "fishing_fleet"	"episodic_2_sloop"	0	false
 "fishing_fleet"	"galleon"	0	false
 "fishing_fleet"	"galleon_fluyt"	0	false
@@ -941,6 +946,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "local_fishery"	"brig_british"	0	false
 "local_fishery"	"brig_french"	0	false
 "local_fishery"	"brig_spanish"	0	false
+"local_fishery"	"carrack"	0	false
 "local_fishery"	"episodic_2_sloop"	0	false
 "local_fishery"	"galleon"	0	false
 "local_fishery"	"galleon_fluyt"	0	false
@@ -992,6 +998,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "major_fishery"	"brig_british"	0	false
 "major_fishery"	"brig_french"	0	false
 "major_fishery"	"brig_spanish"	0	false
+"major_fishery"	"carrack"	0	false
 "major_fishery"	"episodic_2_sloop"	0	false
 "major_fishery"	"galleon"	0	false
 "major_fishery"	"galleon_fluyt"	0	false
@@ -1691,6 +1698,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "naval_hospital"	"brig_british"	2	false
 "naval_hospital"	"brig_french"	2	false
 "naval_hospital"	"brig_spanish"	2	false
+"naval_hospital"	"carrack"	1	false
 "naval_hospital"	"carronade_frigate"	1	false
 "naval_hospital"	"carronade_frigate_american"	1	false
 "naval_hospital"	"carronade_frigate_british"	1	false
@@ -2680,6 +2688,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "shipyard"	"brig_british"	1	false
 "shipyard"	"brig_french"	1	false
 "shipyard"	"brig_spanish"	1	false
+"shipyard"	"carrack"	0	false
 "shipyard"	"episodic_2_brig"	0	false
 "shipyard"	"episodic_2_sloop"	0	false
 "shipyard"	"galleon"	0	false
@@ -2758,6 +2767,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "steam_drydock"	"brig_british"	1	false
 "steam_drydock"	"brig_french"	1	false
 "steam_drydock"	"brig_spanish"	1	false
+"steam_drydock"	"carrack"	0	false
 "steam_drydock"	"carronade_frigate"	0	false
 "steam_drydock"	"carronade_frigate_american"	0	false
 "steam_drydock"	"carronade_frigate_british"	0	false
@@ -2802,6 +2812,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "trading_company"	"brig_british"	0	false
 "trading_company"	"brig_french"	0	false
 "trading_company"	"brig_spanish"	0	false
+"trading_company"	"carrack"	0	false
 "trading_company"	"dhow"	0	false
 "trading_company"	"episodic_2_sloop"	0	false
 "trading_company"	"galleon"	0	false
@@ -2822,6 +2833,7 @@ Building_IDRef(string)	Unit(string)	Experience(int)	Unknown4(boolean)
 "trading_port"	"brig_british"	0	false
 "trading_port"	"brig_french"	0	false
 "trading_port"	"brig_spanish"	0	false
+"trading_port"	"carrack"	0	false
 "trading_port"	"dhow"	0	false
 "trading_port"	"episodic_2_sloop"	0	false
 "trading_port"	"galleon"	0	false

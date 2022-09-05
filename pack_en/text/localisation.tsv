@@ -38197,3 +38197,10 @@ names_name_names_portugueseSerrão	Serrão	false
 names_name_names_englishJosiah	Josiah	false
 names_name_names_englishChild	Child	false
 names_name_names_frenchMartin	Martin	false
+unit_description_texts_description_text_carrack	A galleon is a square-rigged warship, capable of long ocean voyages and of carrying some cargo. Demi-culverins are the usual armament carried. 	false
+unit_description_texts_long_description_text_carrack	"
+
+A galleon is a strong, seaworthy vessel, capable of surviving an Atlantic crossing in the worst of weathers. This is a tribute to their builder’s methods and techniques, learned over the decades of making caravels and carracks. The lines of a galleon show its medieval heritage, as the type is similar to the earlier ships, but without their high forecastle shape. The galleon retains a high stern castle, but its main fighting power is on the gun deck. This change meant that galleons are not fighting platforms for (land) troops, but fight with broadside batteries of demi-culverin cannons. In this respect, it is a forerunner to the later square-rigged rated ships of the line. The guns and strength of construction make them dangerous targets, as numerous English pirates and privateers discovered to their cost.
+
+A galleon can also carry a substantial cargo. The Spanish galleon fleets carrying bullion from the New World, for example, made a tempting target because they were such good cargo vessels. The wealth they imported was almost beyond calculation. The gold and silver, however, damaged the Spain by flooding the country with “cheap” money, and there was no understanding of economics to help stop the problem."	false
+units_on_screen_name_carrack	Carrack	false
