@@ -358,6 +358,9 @@ Unit_IDRef(string)	Faction_IDRef(string)	Availability(boolean)
 "netherlands_holland_guard"	"netherlands"	true
 "netherlands_horse_guards"	"netherlands"	true
 "netherlands_swiss_infantry"	"netherlands"	true
+"nizam_I_cedit_infantry"	"ottomans"	true
+"nizam_I_cedit_light_infantry"	"ottomans"	true
+"nizam_I_cedit_rifles"	"ottomans"	true
 "norwegian_ski_troops"	"norway"	true
 "ottoman_great_cannon"	"ottomans"	true
 "over_1st_rate"	"knights_stjohn"	false
