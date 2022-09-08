@@ -431,6 +431,7 @@ Unit_IDRef(string)	Military_x0020_Group(string)
 "east_ethnic_musketmen_fellahin_musketeers"	"barbary_group"
 "east_ethnic_musketmen_hindu_musketeers"	"maratha_group"
 "east_ethnic_musketmen_hindu_musketeers"	"mughal_group"
+"east_ethnic_musketmen_isarelys"	"barbary_group"
 "east_ethnic_musketmen_isarelys"	"ottoman_group"
 "east_ethnic_musketmen_mughal_musketeers"	"caucasus_group"
 "east_ethnic_musketmen_mughal_musketeers"	"mughal_group"
