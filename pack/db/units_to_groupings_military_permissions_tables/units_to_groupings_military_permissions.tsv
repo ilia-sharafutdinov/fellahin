@@ -462,6 +462,7 @@ Unit_IDRef(string)	Military_x0020_Group(string)
 "east_pikemen_zamindari"	"mughal_group"
 "east_sikh_infantry_musketeers"	"maratha_group"
 "east_sikh_warriors"	"maratha_group"
+"east_sipahi_cavalry"	"barbary_group"
 "east_sipahi_cavalry"	"caucasus_group"
 "east_sipahi_cavalry"	"maratha_group"
 "east_sipahi_cavalry"	"mughal_group"
