@@ -388,7 +388,7 @@
      </rec>
      <s>denmark</s>
      <no/>
-     <no/><!-- Playable -->
+     <yes/><!-- Playable -->
      <no/>
     </rec>
    </rec>
@@ -862,6 +862,7 @@
   <xml_include path="victory_conditions/mughal.xml"/>
   <xml_include path="victory_conditions/portugal.xml"/>
   <xml_include path="victory_conditions/safavids.xml"/>
+  <xml_include path="victory_conditions/denmark.xml"/>
  </ary>
  <ary type="FACTION_INFOS">
   <rec type="FACTION_INFOS">
@@ -1117,8 +1118,8 @@
   <rec type="FACTION_INFOS">
    <s>denmark</s>
    <s>ui/portraits/european/cards/king/young/040.tga</s>
-   <no/>
-   <no/>
+   <yes/>
+   <yes/>
    <i>26</i>
    <s>start_pos_factions_description_1</s>
    <s>data\ui\flags\denmark</s>
