@@ -268,7 +268,7 @@
      </rec>
      <s>morocco</s>
      <no/>
-     <no/><!-- Playable -->
+     <yes/><!-- Playable -->
      <no/>
     </rec>
    </rec>
@@ -863,6 +863,7 @@
   <xml_include path="victory_conditions/portugal.xml"/>
   <xml_include path="victory_conditions/safavids.xml"/>
   <xml_include path="victory_conditions/denmark.xml"/>
+  <xml_include path="victory_conditions/morocco.xml"/>
  </ary>
  <ary type="FACTION_INFOS">
   <rec type="FACTION_INFOS">
@@ -1038,8 +1039,8 @@
   <rec type="FACTION_INFOS">
    <s>morocco</s>
    <s>ui/portraits/indian/cards/king/old/098.tga</s>
-   <no/>
-   <no/>
+   <yes/>
+   <yes/>
    <i>18</i>
    <s>start_pos_factions_description_42</s>
    <s>data\ui\flags\morocco</s>
