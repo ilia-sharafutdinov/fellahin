@@ -1336,7 +1336,7 @@
      <draa/><!-- Alliance Broken -->
      <draa/><!-- Alliances Not Honoured -->
      <draa extra="15" active2="yes"/><!-- War Against Enemy And Enemy Of My Enemy (If No War Then Enemy Of My Enemy) -->
-     <draa drift="1" current="15" limit="60" active1="yes"/><!-- Trade Agreement -->
+     <draa/><!-- Trade Agreement -->
      <draa/><!-- Trade Agreement Broken -->
      <draa/><!-- War Dragged By Ally (-70) And/Or Declare War (-140) -->
      <draa/><!-- Peace Treaty -->
@@ -1354,7 +1354,7 @@
      <draa/><!-- Threats Of Attack -->
      <draa/><!-- Respect Given To National Leader -->
     </ary>
-    <yes/><!-- Trade Agreement -->
+    <no/><!-- Trade Agreement -->
     <i>0</i><!-- Military Access (-1 = Infinite) -->
     <s>neutral</s><!-- Relationship -->
     <i>0</i><!-- Supporting Faction ID -->
