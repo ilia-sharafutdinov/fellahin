@@ -812,6 +812,8 @@ Unit_IDRef(string)	Military_x0020_Group(string)
 "light_galley/galliot/fusta"	"usa_group"
 "light_galley/galliot/fusta"	"venice_group"
 "maison_du_roi"	"france_group"
+"mameluks"	"barbary_group"
+"mameluks"	"ottoman_group"
 "maroon_rebels"	"rebel_group"
 "medium_galley"	"austria_group"
 "medium_galley"	"barbary_group"

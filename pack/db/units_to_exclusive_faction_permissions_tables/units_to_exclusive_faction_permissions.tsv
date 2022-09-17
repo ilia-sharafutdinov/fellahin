@@ -280,8 +280,6 @@ Unit_IDRef(string)	Faction_IDRef(string)	Availability(boolean)
 "janissaries_sekban"	"ottoman_rebels"	true
 "janissaries_sekban"	"ottomans"	true
 "light_galley/galliot/fusta"	"pirates"	true
-"mameluks"	"mamelukes"	true
-"mameluks"	"ottomans"	true
 "medium_galley"	"pirates"	true
 "nan_american_pioneer_militia"	"united_states"	true
 "nan_american_pioneer_raiders"	"united_states"	true
