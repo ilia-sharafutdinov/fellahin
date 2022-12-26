@@ -9,12 +9,12 @@ Variable(string)	Value(float)
 "autoresolve_chance_of_not_capturing_ship"	0.4
 "autoresolve_chance_of_taking_captives"	0.05
 "autoresolve_commander_star_rating_impact"	0.15
-"autoresolve_easy_campaign_AI_percent_reduction"	0.05
-"autoresolve_easy_difficulty_human_advantage"	0.1
+"autoresolve_easy_campaign_AI_percent_reduction"	0
+"autoresolve_easy_difficulty_human_advantage"	0
 "autoresolve_gaussian_boundary"	3
 "autoresolve_gaussian_standard_deviation"	1
-"autoresolve_hard_campaign_AI_percent_increase"	0.2
-"autoresolve_hard_difficulty_AI_advantage"	0.08
+"autoresolve_hard_campaign_AI_percent_increase"	0
+"autoresolve_hard_difficulty_AI_advantage"	0
 "autoresolve_major_land_victory_percent"	0.1
 "autoresolve_major_naval_victory_lose_percent"	0.4
 "autoresolve_major_naval_victory_win_percent"	0.18
@@ -34,8 +34,8 @@ Variable(string)	Value(float)
 "autoresolve_stat_massacre_chance"	0.2
 "autoresolve_unit_losses_fuzziness"	0.1
 "autoresolve_unlikely_naval_result_scaling_factor"	0.3
-"autoresolve_very_hard_campaign_AI_percent_increase"	0.35
-"autoresolve_very_hard_difficulty_AI_advantage"	0.2
+"autoresolve_very_hard_campaign_AI_percent_increase"	0
+"autoresolve_very_hard_difficulty_AI_advantage"	0
 "background_commodity_supply"	250
 "base_wealth_increase"	1000
 "baseline_pop_growth"	0.3
