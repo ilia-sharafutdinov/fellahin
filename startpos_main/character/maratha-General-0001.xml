@@ -21,6 +21,8 @@
   <rec type="CHARACTER_DETAILS">
    <traits>
     C_General_Mad=1
+    C_General_Brave=4
+    C_General_Born_Soldier=3
    </traits>
    <loc>names_name_names_frenchAndré</loc>
    <loc>names_name_names_frenchBonner</loc>
@@ -36,7 +38,7 @@
     Ancillary_Army_Exploring_Officer
    </agent_ancillaries>
    <agent_attributes>
-    command_land=2
+    command_land=4
     command_sea=-1
     duelling_pistols=-1
     duelling_swords=-1
