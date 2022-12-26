@@ -20,8 +20,8 @@
   </rec>
   <rec type="CHARACTER_DETAILS">
    <traits>
-    C_General_Coward=1
-    C_General_Defender_Bad=4
+    C_General_Good_Field_Commander=6
+    C_General_Brave=4
     C_General_India_Good=4
    </traits>
    <loc>names_name_names_englishAnthony</loc>
@@ -36,7 +36,7 @@
    <u>582865192</u><!-- Character ID -->
    <agent_ancillaries/>
    <agent_attributes>
-    command_land=2
+    command_land=5
     command_sea=-1
     duelling_pistols=-1
     duelling_swords=-1
