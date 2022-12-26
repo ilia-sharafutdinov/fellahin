@@ -97,4 +97,4 @@ Variable(string)	Value(float)
 "trade_ship_commodity_volume"	20
 "unilateral_diplomatic_gift_state_gift_proportion"	0.5
 "unit_first_in_culture_prestige_multiplier"	1.6
-"unit_minimum_strength"	0.05
+"unit_minimum_strength"	0.2
