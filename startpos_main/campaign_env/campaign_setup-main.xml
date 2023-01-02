@@ -449,7 +449,7 @@
      </rec>
      <s>venice</s>
      <no/>
-     <no/><!-- Playable -->
+     <yes/><!-- Playable -->
      <no/>
     </rec>
    </rec>

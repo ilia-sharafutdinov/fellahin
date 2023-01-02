@@ -448,7 +448,7 @@
      </rec>
      <s>venice</s>
      <no/>
-     <no/><!-- Playable -->
+     <yes/><!-- Playable -->
      <no/>
     </rec>
    </rec>
@@ -864,6 +864,7 @@
   <xml_include path="victory_conditions/safavids.xml"/>
   <xml_include path="victory_conditions/denmark.xml"/>
   <xml_include path="victory_conditions/morocco.xml"/>
+  <xml_include path="victory_conditions/venice.xml"/>
  </ary>
  <ary type="FACTION_INFOS">
   <rec type="FACTION_INFOS">
@@ -1159,8 +1160,8 @@
   <rec type="FACTION_INFOS">
    <s>venice</s>
    <s>ui/portraits/european/cards/minister/old/002.tga</s>
-   <no/>
-   <no/>
+   <yes/>
+   <yes/>
    <i>30</i>
    <s>start_pos_factions_description_59</s>
    <s>data\ui\flags\venice</s>
