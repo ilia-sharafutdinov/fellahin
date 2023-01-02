@@ -343,7 +343,7 @@
      </rec>
      <s>papal_states</s>
      <no/>
-     <no/><!-- Playable -->
+     <yes/><!-- Playable -->
      <no/>
     </rec>
    </rec>
@@ -865,6 +865,7 @@
   <xml_include path="victory_conditions/denmark.xml"/>
   <xml_include path="victory_conditions/morocco.xml"/>
   <xml_include path="victory_conditions/venice.xml"/>
+  <xml_include path="victory_conditions/papal_states.xml"/>
  </ary>
  <ary type="FACTION_INFOS">
   <rec type="FACTION_INFOS">
@@ -1090,8 +1091,8 @@
   <rec type="FACTION_INFOS">
    <s>papal_states</s>
    <s>ui/portraits/european/cards/king/old/074.tga</s>
-   <no/>
-   <no/>
+   <yes/>
+   <yes/>
    <i>23</i>
    <s>start_pos_factions_description_46</s>
    <s>data\ui\flags\papal_states</s>
